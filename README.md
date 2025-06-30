@@ -58,6 +58,4 @@ If you want to contribute or suggest improvements:
 
 Feel free to reach out if you have questions or want to collaborate!
 
----
 
-> **Note:** If you would like more details on any specific concept or have suggestions for additional topics, please open an issue or contact me directly.
